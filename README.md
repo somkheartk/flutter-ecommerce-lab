@@ -51,6 +51,22 @@ A modern, beautiful Flutter e-commerce application with Thai language support an
    flutter run
    ```
 
+## 📱 Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login_screen.png)
+*Login screen with gradient background and form validation*
+
+### Product Catalog
+![Product Screen](screenshots/product_screen.png)
+*Auto-sliding promotional banners and product grid with category filters*
+
+### Shopping Cart
+![Cart Screen](screenshots/cart_screen.png)
+*Shopping cart with quantity controls and checkout functionality*
+
+> **Note**: Screenshots will be added after building and testing the application on actual devices.
+
 ## 📱 App Structure
 
 ```
@@ -131,7 +147,13 @@ lib/
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## � Documentation
+
+- [📖 Thai Documentation](DOCS_TH.md) - Complete project documentation in Thai
+- [🧩 Widget Usage Guide](WIDGET_GUIDE_TH.md) - Detailed widget usage guide in Thai
+- [📱 Screenshots](screenshots/README.md) - Screenshots and UI examples
+
+## �🙏 Acknowledgments
 
 - [FakeStore API](https://fakestoreapi.com/) for product data
 - [Kanit Font](https://fonts.google.com/specimen/Kanit) for Thai typography
